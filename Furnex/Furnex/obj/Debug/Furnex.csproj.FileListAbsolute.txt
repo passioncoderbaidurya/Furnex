@@ -1,0 +1,11 @@
+C:\Users\baidu\source\repos\Furnex\Furnex\bin\Debug\Furnex.exe.config
+C:\Users\baidu\source\repos\Furnex\Furnex\bin\Debug\Furnex.exe
+C:\Users\baidu\source\repos\Furnex\Furnex\bin\Debug\Furnex.pdb
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.csproj.AssemblyReference.cache
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.Form1.resources
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.Properties.Resources.resources
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.csproj.GenerateResource.cache
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.csproj.CoreCompileInputs.cache
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.exe
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.pdb
+C:\Users\baidu\source\repos\Furnex\Furnex\obj\Debug\Furnex.Form2.resources
